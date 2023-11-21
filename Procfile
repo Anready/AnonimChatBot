@@ -1,0 +1,1 @@
+worker: python anon_chat.py
